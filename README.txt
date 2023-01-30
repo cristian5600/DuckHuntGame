@@ -1,7 +1,7 @@
 Construcție
 Rațele sunt reprezentate de câteva primitive geometrice 2D (minimum 4: corp, aripi și cap), poziționate sugestiv. Puteți vedea o construcție propusă a raței în imaginea de mai jos, formată din 4 triunghiuri și un cerc (câte un triunghi pentru corp, aripi și cioc, și capul reprezentat de cerc).
 
-
+![alt text](https://github.com/cristian5600/DuckHuntGame/blob/main/poza_tema1.PNG)
 
 Animare
 Pentru a construi rața va fi așadar nevoie de un ansamblu de mai multe obiecte definite manual (vedeți modalitatea de definirea a pătratului din laborator) care se vor mișca împreuna, dar vor avea și animații independente. Astfel, rața:
